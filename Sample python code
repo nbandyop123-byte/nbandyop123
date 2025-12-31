@@ -1,0 +1,6 @@
+L=[4,68,8,-5,929,-48]
+min=L[0]
+for b in L:
+  if b<=min:
+    min=b
+print(min)
